@@ -16,7 +16,3 @@ Team Leader: Dan
   - Manager: Bobby
   - Svetlana
   - Adam
-
-## Current Tasks
-  - Initial/basic track
-  - Basic layout of homescreen
