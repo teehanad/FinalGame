@@ -2167,7 +2167,7 @@ MonoBehaviour:
   objToMoveHeight: 0.2
   objToJumpHeight: -2.5
   objToDuckHeight: 0
-  noOfObjs: 5
+  noOfObjs: 3
 --- !u!4 &827663473
 Transform:
   m_ObjectHideFlags: 0
@@ -3476,7 +3476,7 @@ MonoBehaviour:
   objToMoveHeight: 0.2
   objToJumpHeight: -2.5
   objToDuckHeight: 0.2
-  noOfObjs: 5
+  noOfObjs: 3
 --- !u!4 &1345631749
 Transform:
   m_ObjectHideFlags: 0
@@ -4293,7 +4293,7 @@ MonoBehaviour:
   objToMoveHeight: 0.2
   objToJumpHeight: -2.5
   objToDuckHeight: 0.2
-  noOfObjs: 5
+  noOfObjs: 3
 --- !u!4 &1540527099
 Transform:
   m_ObjectHideFlags: 0

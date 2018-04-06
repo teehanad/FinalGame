@@ -73,8 +73,9 @@ public class PlayerPathFindingScript : MonoBehaviour {
             {
                 Vector3 realpos = new Vector3(path_objs[pathPoint].position.x, objToJumpHeight, path_objs[pathPoint].position.z);
                 Instantiate(objToJump, realpos, rotation);
-            }
-            else
+            } else {
+            		
+			}
             {
 				Vector3 realpos = new Vector3((path_objs[pathPoint].position.x), objToDuckHeight, path_objs[pathPoint].position.z);
                 Instantiate(objToDuck, realpos, rotation);
