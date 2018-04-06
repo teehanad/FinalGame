@@ -3472,10 +3472,10 @@ MonoBehaviour:
   - {fileID: 168308514}
   objToMove: {fileID: 764376230}
   objToJump: {fileID: 930475897}
-  objToDuck: {fileID: 0}
+  objToDuck: {fileID: 764376230}
   objToMoveHeight: 0.2
   objToJumpHeight: -2.5
-  objToDuckHeight: 0
+  objToDuckHeight: 0.2
   noOfObjs: 5
 --- !u!4 &1345631749
 Transform:
@@ -4289,10 +4289,10 @@ MonoBehaviour:
   - {fileID: 1515933171}
   objToMove: {fileID: 764376230}
   objToJump: {fileID: 930475897}
-  objToDuck: {fileID: 0}
+  objToDuck: {fileID: 764376230}
   objToMoveHeight: 0.2
   objToJumpHeight: -2.5
-  objToDuckHeight: 0
+  objToDuckHeight: 0.2
   noOfObjs: 5
 --- !u!4 &1540527099
 Transform:
